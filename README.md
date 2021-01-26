@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I'm ReCclay 👋
 
 <!--
 **ReCclay/ReCclay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,19 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+
+
+
+- 🔭 I’m currently doing a postgraduate study in UESTC.
+
+- 🌱 My current research direction is vehicle assisted driving algorithm.
+
+- 😄 Motto: The last leg of a journey marks the halfway point.
+
+- ✍🏾 Blog: click [CSDN-ReCclay](https://recclay.blog.csdn.net/)
+
+  
+
+
